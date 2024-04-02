@@ -1,10 +1,10 @@
-<h1>
+<h1 align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&pause=1000&color=FF73C1BB&random=false&width=435&lines=Ol%C3%A1%2C++;Eu+sou+a+Samantha+Firmino!+%CA%95%E2%80%A2%CC%81%E1%B4%A5%E2%80%A2%CC%80%CA%94%E3%81%A3;Seja+bem+vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
-</h1></h1>
-
-<img src="https://media.tenor.com/DVXNuYXLyGUAAAAM/raining-pixel.gif" alt="developer gif"  height="200px">
+</h1>
+</br>
+<img src="https://media.tenor.com/DVXNuYXLyGUAAAAM/raining-pixel.gif" alt="developer gif"  height="200px" >
 </br>
 
 ## 🛠 Skills:
@@ -31,13 +31,18 @@
 </br>
 
 ## 📊 Estatísticas do GitHub:
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=samanthafrm&theme=react) <br/>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=samanthafrm&theme=tokyonight)
 </br>
 </br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanthafrm&layout=compact&theme=tokyonight)
 
 ## 💭 Citação de hoje:
-<a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card"></a>
+<details open>
+    <summary>Veja:</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    </a>
+</details>
     
  ## 📫 Conecte-se comigo: 👇
 <div> 
@@ -65,7 +70,7 @@ Em breve!
 </a>
 -->
   <img src="https://nekosenpaichangfx.files.wordpress.com/2018/05/transparent-pixel-gif-14.gif?w=291&h=313" alt="developer gif"  height="200px">
-<h2>
+<h2 align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&pause=1000&color=FF73C1BB&random=false&width=435&lines=Obrigada+por+visitar!)](https://git.io/typing-svg)
  
