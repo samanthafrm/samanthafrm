@@ -19,7 +19,7 @@
 </div>
 </br>
 
-## 💕 Hobbies
+## 💕 Hobbies:
 🧠 Aprender coisas novas
 
 👩‍💻 Criar projetos pessoais
