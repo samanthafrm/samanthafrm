@@ -1,10 +1,12 @@
 <h1 align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&pause=1000&color=FF73C1BB&random=false&width=435&lines=Ol%C3%A1%2C++;Eu+sou+a+Samantha+Firmino!+%CA%95%E2%80%A2%CC%81%E1%B4%A5%E2%80%A2%CC%80%CA%94%E3%81%A3;Seja+bem+vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=28&duration=3000&pause=1000&color=FF73C1BB&random=false&width=435&lines=Ol%C3%A1%2C++%CA%95%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94%EF%BE%89;Eu+sou+a+Samantha+Firmino!;Seja+bem-vindo(a)+ao+meu+perfil!!)](https://git.io/typing-svg)
 
 </h1>
 </br>
-<img src="https://media.tenor.com/DVXNuYXLyGUAAAAM/raining-pixel.gif" alt="developer gif"  height="200px" >
+<p align="center">
+<img src="https://media.tenor.com/DVXNuYXLyGUAAAAM/raining-pixel.gif" alt="developer gif"  height="200px" >  
+</p>
 </br>
 
 ## 🛠 Skills:
@@ -35,6 +37,7 @@
 </br>
 </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanthafrm&layout=compact&theme=tokyonight)
+
 
 ## 💭 Citação de hoje:
 <details open>
@@ -69,9 +72,12 @@ Em breve!
     <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=7E3ACE&style=for-the-badge" />
 </a>
 -->
+<p align="center">
   <img src="https://nekosenpaichangfx.files.wordpress.com/2018/05/transparent-pixel-gif-14.gif?w=291&h=313" alt="developer gif"  height="200px">
+</p>
+
 <h2 align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&pause=1000&color=FF73C1BB&random=false&width=435&lines=Obrigada+por+visitar!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=4000&pause=1000&color=FF73C1BB&random=false&width=435&lines=Obrigada+por+visitar!!!++%CA%95%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94%EF%BE%89%E2%99%A1)](https://git.io/typing-svg)
  
 </h2>
